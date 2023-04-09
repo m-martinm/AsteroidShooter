@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AsteroidShooter", "AsteroidShooter.vcxproj", "{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Debug|x64.ActiveCfg = Debug|x64
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Debug|x64.Build.0 = Debug|x64
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Debug|x86.Build.0 = Debug|Win32
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Release|x64.ActiveCfg = Release|x64
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Release|x64.Build.0 = Release|x64
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Release|x86.ActiveCfg = Release|Win32
+		{EB432460-FB6F-4E06-87D4-8EFE933FFFF1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80DF0BF9-3461-499A-87BF-5ED6207F6058}
+	EndGlobalSection
+EndGlobal
